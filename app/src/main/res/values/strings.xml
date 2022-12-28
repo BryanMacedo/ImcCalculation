@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="yourHeight">Ex: 1.85</string>
+    <string name="subHeight">Sua altura</string>
+
+    <string name="yourWeight">Ex: 60</string>
+    <string name="subWeight">Seu peso</string>
+
+    <string name="imcView">IMC</string>
+
+    <string name="buttonImc">Clique aqui</string>
+
+    <string name="validation">Informe um valor valido!</string>
+
+
+</resources>
